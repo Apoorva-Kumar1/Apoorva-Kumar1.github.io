@@ -66,7 +66,7 @@ h1 {
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
-  background-image: radial-gradient(circle at 50% -30vh, #f2da00 0, #edd924 50vh, #ffff00 90vh, rgba(32, 31, 66, 0) 150vh);
+  background-image: radial-gradient(circle at 50% -30vh, #ffd687 0, #fb766a 50vh, #9d2f6a 90vh, rgba(32, 31, 66, 0) 150vh);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
